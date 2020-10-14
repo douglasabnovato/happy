@@ -20,3 +20,6 @@
 - [ ] 1.8. Criando a landing page 
 - [ ] 1.9. Trabalhando com rotas
 - [ ] 1.10. Página com mapa
+
+:. [Trilha Omnistack - Next Level Week - Rocketseat](https://rocketseat.com.br/)<br/>
+:. [Douglas A B Novato](https://linktr.ee/douglasabnovato)
