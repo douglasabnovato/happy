@@ -11,7 +11,9 @@
 - [x] 1.3. Conceitos do back-end, front-end e api ?
 - [x] 1.4. O que React e porque utilizar ?
 - [x] 1.5. Porque vamos usar Typescript ?
-- [ ] 1.6. Criando um projeto com ReactJS
+- [x] 1.6. Criando um projeto com ReactJS
+- [x] 1.6.1. yarn: `yarn create react-app web --template typescript`
+- [x] 1.6.2. node: `npx create-react-app web --template typescript`
 - [ ] 1.7. Componentes, JSX e propriedades 
 - [ ] 1.8. Criando a landing page 
 - [ ] 1.9. Trabalhando com rotas
