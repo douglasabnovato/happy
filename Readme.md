@@ -22,7 +22,9 @@
 - [x] 1.8.1.1. exportar imagens no formato .svg
 - [x] 1.8.1.2. Google Fonts
 - [x] 1.8.2. estrutura
-- [ ] 1.8.3. estilização
+- [x] 1.8.3. estilização
+- [ ] 1.8.3.1. global.css 
+- [ ] 1.8.3.2. landing.css
 - [ ] 1.9. Trabalhando com rotas
 - [ ] 1.10. Página com mapa
 
