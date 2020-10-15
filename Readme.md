@@ -23,8 +23,10 @@
 - [x] 1.8.1.2. Google Fonts
 - [x] 1.8.2. estrutura
 - [x] 1.8.3. estilização
-- [ ] 1.8.3.1. global.css 
-- [ ] 1.8.3.2. landing.css
+- [x] 1.8.3.1. global.css
+- [x] 1.8.3.2. landing.css
+- [x] 1.8.3.3. as medidas e posições podem ser consultadas no modelo do Figma
+- [x] 1.8.3.4. pacote de icons: `yarn add react-icons`, FiArrowRight
 - [ ] 1.9. Trabalhando com rotas
 - [ ] 1.10. Página com mapa
 
