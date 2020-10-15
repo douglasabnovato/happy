@@ -16,7 +16,7 @@
 - [x] 1.6.2. node: `npx create-react-app web --template typescript`
 - [x] 1.6.3. Estrutura de pastas e arquivos iniciais
 - [x] 1.6.4. startar o projeto:`yarn start` ou `npm start`
-- [ ] 1.7. Componentes, JSX e propriedades 
+- [X] 1.7. Componentes, JSX e propriedades 
 - [ ] 1.8. Criando a landing page 
 - [ ] 1.9. Trabalhando com rotas
 - [ ] 1.10. Página com mapa
