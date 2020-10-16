@@ -53,6 +53,7 @@
 - [x] 1.10.5.2.1. token
 - [x] 1.10.5.2.2. .env: variável ambiente para manter esse token reservado
 - [x] 1.10.6. Warning: botão indo para baixo do mapa
+- [x] 1.10.7. Warning: o mapa não estava funcionando com o Map Box. Solução: para funcionar, o arquivo .env deve estar na raiz do projeto e não na pasta src.
 
 :. [Trilha Omnistack - Next Level Week - Rocketseat](https://rocketseat.com.br/)<br/>
 :. [Douglas A B Novato](https://linktr.ee/douglasabnovato)
