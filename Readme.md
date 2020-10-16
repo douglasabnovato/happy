@@ -28,7 +28,13 @@
 - [x] 1.8.3.3. as medidas e posições podem ser consultadas no modelo do Figma
 - [x] 1.8.3.4. pacote de icons: `yarn add react-icons`, FiArrowRight
 - [x] 1.8.3.5. seis elementos na landing page 
-- [ ] 1.9. Trabalhando com rotas
+- [x] 1.9. Trabalhando com rotas
+- [x] 1.9.1. instalar react-router-dom: yarn add react-router-dom
+- [x] 1.9.2. autocomplete: yarn add @types/react-router-dom -D
+- [x] 1.9.3. BrowserRouter, Switch, Route 
+- [x] 1.9.4. exact 
+- [x] 1.9.5. SPA: fazer a transição de uma página para outra sem carregar a página inteira
+- [x] 1.9.5.1. Link
 - [ ] 1.10. Página com mapa
 
 :. [Trilha Omnistack - Next Level Week - Rocketseat](https://rocketseat.com.br/)<br/>
