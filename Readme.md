@@ -1,6 +1,6 @@
 ### Happy
 
-#### Frontend Web
+#### Front-end Web com ReactJS
 
 - [x] 1.1. Apresentação do Projeto
 - [x] 1.1.1. Comunidade no Discord
@@ -54,6 +54,21 @@
 - [x] 1.10.5.2.2. .env: variável ambiente para manter esse token reservado
 - [x] 1.10.6. Warning: botão indo para baixo do mapa
 - [x] 1.10.7. Warning: o mapa não estava funcionando com o Map Box. Solução: para funcionar, o arquivo .env deve estar na raiz do projeto e não na pasta src.
+
+#### Back-end com NodeJS
+
+- [ ] 2.1. Criando projeto com Nodejs
+- [ ] 2.2. Rotas, parâmetros e métodos HTTP
+- [ ] 2.3. Configurando Banco de Dados
+- [ ] 2.4. Criando tabelas no Banco de Dados
+- [ ] 2.5. Criando orfanato sem imagem
+- [ ] 2.6. Abstraindo em controller 
+- [ ] 2.7. Listando orfanatos 
+- [ ] 2.8. Upload de imagens
+- [ ] 2.9. Trabalhando com views
+- [ ] 2.10. Detalhe do Orfanato
+- [ ] 2.11. Lidando com excessões 
+- [ ] 2.12. Validação de Dados
 
 :. [Trilha Omnistack - Next Level Week - Rocketseat](https://rocketseat.com.br/)<br/>
 :. [Douglas A B Novato](https://linktr.ee/douglasabnovato)
