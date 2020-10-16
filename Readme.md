@@ -27,6 +27,7 @@
 - [x] 1.8.3.2. landing.css
 - [x] 1.8.3.3. as medidas e posições podem ser consultadas no modelo do Figma
 - [x] 1.8.3.4. pacote de icons: `yarn add react-icons`, FiArrowRight
+- [x] 1.8.3.5. seis elementos na landing page 
 - [ ] 1.9. Trabalhando com rotas
 - [ ] 1.10. Página com mapa
 
