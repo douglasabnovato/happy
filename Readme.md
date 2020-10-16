@@ -73,6 +73,7 @@
     "dev":"ts-node-dev src/server.ts"
 }
 ```` 
+- [x] 2.1.11. hello world
 - [ ] 2.2. Rotas, parâmetros e métodos HTTP
 - [ ] 2.3. Configurando Banco de Dados
 - [ ] 2.4. Criando tabelas no Banco de Dados
