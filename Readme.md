@@ -41,7 +41,20 @@
 - [x] 1.10.3. funcionalidades
 - [x] 1.10.3.1. biblioteca de mapas - leaflet: yarn add leaflet react-leaflet
 - [x] 1.10.3.2. yarn add @types/react-leaflet -D
-- [ ] 1.10.3.3. colocar um map em tela
+- [x] 1.10.3.3. colocar um map em tela
+- [x] 1.10.4. Biblioteca de Mapa - Map
+- [x] 1.10.4.1. Latitude e Longetude
+- [x] 1.10.4.2. TileLayer - open street map
+````javascript
+<TileLayer url="https://a.tile.openstreetmap.org/{z}/{x}/{y}.png"/>
+````
+- [x] 1.10.4.3. warning: o mapa carregou todo estranho
+- [x] 1.10.4.3.1. correção: import 'leaflet/dist/leaflet.css'
+- [x] 1.10.5. Outras bibliotecas de Map
+- [x] 1.10.5.1. Google Maps
+- [x] 1.10.5.2. Map Box
+- [x] 1.10.5.2.1. token
+- [x] 1.10.5.2.2. .env: variável ambiente para manter esse token reservado
 
 :. [Trilha Omnistack - Next Level Week - Rocketseat](https://rocketseat.com.br/)<br/>
 :. [Douglas A B Novato](https://linktr.ee/douglasabnovato)
