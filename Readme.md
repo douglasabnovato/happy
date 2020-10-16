@@ -37,7 +37,7 @@
 - [x] 1.9.5.1. Link
 - [x] 1.10. Página com mapa
 - [x] 1.10.1. estrutura html
-- [ ] 1.10.2. estilização css
+- [x] 1.10.2. estilização css
 - [ ] 1.10.3. funcionalidades
 
 :. [Trilha Omnistack - Next Level Week - Rocketseat](https://rocketseat.com.br/)<br/>
