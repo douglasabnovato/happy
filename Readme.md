@@ -57,7 +57,22 @@
 
 #### Back-end com NodeJS
 
-- [ ] 2.1. Criando projeto com Nodejs
+- [x] 2.1. Criando projeto com Nodejs
+- [x] 2.1.1. Pasta backend
+- [x] 2.1.2. yarn init -y: `package.json`
+- [x] 2.1.3. express: `yarn add express`
+- [x] 2.1.4. .gitignore para `/node_modules`
+- [x] 2.1.5. `src/server.ts`
+- [x] 2.1.6. warning: instalar pacote de tipagem do express: `yarn add @types/express -D`
+- [x] 2.1.7. instalar o typescript como dependência de desenvolvimento: `yarn add typescript -D`
+- [x] 2.1.8. `yarn tsc --init`: tsconfig.json
+- [x] 2.1.9. `yarn add ts-node-dev -D`: utilizar node e typescript no mesmo projeto
+- [x] 2.1.10. criar scripts: yarn dev
+````json
+"scripts":{
+    "dev":"ts-node-dev src/server.ts"
+}
+```` 
 - [ ] 2.2. Rotas, parâmetros e métodos HTTP
 - [ ] 2.3. Configurando Banco de Dados
 - [ ] 2.4. Criando tabelas no Banco de Dados
