@@ -74,7 +74,12 @@
 }
 ```` 
 - [x] 2.1.11. hello world
-- [ ] 2.2. Rotas, parâmetros e métodos HTTP
+- [x] 2.2. Rotas, parâmetros e métodos HTTP
+- [x] 2.2.1. Rota = conjunto
+- [x] 2.2.2. Recurso = usuário
+- [x] 2.2.3. Métodos HTTP = GET, POST, PUT, DELETE
+- [x] 2.2.4. Parâmetros
+- [ ] 2.2.5. Insomnia: para testar as requisições
 - [ ] 2.3. Configurando Banco de Dados
 - [ ] 2.4. Criando tabelas no Banco de Dados
 - [ ] 2.5. Criando orfanato sem imagem
