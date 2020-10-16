@@ -35,7 +35,10 @@
 - [x] 1.9.4. exact 
 - [x] 1.9.5. SPA: fazer a transição de uma página para outra sem carregar a página inteira
 - [x] 1.9.5.1. Link
-- [ ] 1.10. Página com mapa
+- [x] 1.10. Página com mapa
+- [x] 1.10.1. estrutura html
+- [ ] 1.10.2. estilização css
+- [ ] 1.10.3. funcionalidades
 
 :. [Trilha Omnistack - Next Level Week - Rocketseat](https://rocketseat.com.br/)<br/>
 :. [Douglas A B Novato](https://linktr.ee/douglasabnovato)
