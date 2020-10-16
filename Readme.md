@@ -38,7 +38,10 @@
 - [x] 1.10. Página com mapa
 - [x] 1.10.1. estrutura html
 - [x] 1.10.2. estilização css
-- [ ] 1.10.3. funcionalidades
+- [x] 1.10.3. funcionalidades
+- [x] 1.10.3.1. biblioteca de mapas - leaflet: yarn add leaflet react-leaflet
+- [x] 1.10.3.2. yarn add @types/react-leaflet -D
+- [ ] 1.10.3.3. colocar um map em tela
 
 :. [Trilha Omnistack - Next Level Week - Rocketseat](https://rocketseat.com.br/)<br/>
 :. [Douglas A B Novato](https://linktr.ee/douglasabnovato)
