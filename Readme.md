@@ -79,6 +79,9 @@
 - [x] 2.2.2. Recurso = usuário
 - [x] 2.2.3. Métodos HTTP = GET, POST, PUT, DELETE
 - [x] 2.2.4. Parâmetros
+- [x] 2.2.4.1. Query Params
+- [x] 2.2.4.2. Route Params - Identificar um recurso
+- [x] 2.2.4.3. Body - Identificar um recurso
 - [x] 2.2.5. Insomnia - next-level-week-3: para testar as requisições
 - [x] 2.2.5.1. rodar o projeto: npm run dev
 - [ ] 2.3. Configurando Banco de Dados
