@@ -83,8 +83,10 @@
 - [x] 2.2.4.2. Route Params - Identificar um recurso
 - [x] 2.2.4.3. Body - Identificar um recurso
 - [x] 2.2.5. Insomnia - next-level-week-3: para testar as requisições
-- [x] 2.2.5.1. rodar o projeto: npm run dev
-- [ ] 2.3. Configurando Banco de Dados
+- [x] 2.2.5.1. rodar o projeto: `npm run dev` ou `yarn dev`
+- [x] 2.3. Configurando Banco de Dados
+- [x] 2.3.1. typeorm: yarn add typeorm sqlite3
+- [x] 2.3.2. sqlite3
 - [ ] 2.4. Criando tabelas no Banco de Dados
 - [ ] 2.5. Criando orfanato sem imagem
 - [ ] 2.6. Abstraindo em controller 
