@@ -93,14 +93,19 @@
 - [x] 2.4.3. executar migrations: `yarn typeorm migration:run`
 - [x] 2.4.4. beekeeper studio: visualizar criação
 - [x] 2.4.5. sqlite explorer: visualizar criação
-- [ ] 2.5. Criando orfanato sem imagem
-- [ ] 2.6. Abstraindo em controller 
-- [ ] 2.7. Listando orfanatos 
-- [ ] 2.8. Upload de imagens
-- [ ] 2.9. Trabalhando com views
-- [ ] 2.10. Detalhe do Orfanato
-- [ ] 2.11. Lidando com excessões 
-- [ ] 2.12. Validação de Dados
+
+- 2.5. Criando orfanato sem imagem
+- 2.6. Abstraindo em controller 
+- 2.7. Listando orfanatos 
+- 2.8. Upload de imagens
+- 2.9. Trabalhando com views
+- 2.10. Detalhe do Orfanato
+- 2.11. Lidando com excessões 
+- 2.12. Validação de Dados
+
+- cors: `npm install cors`
+- multer: `npm install --save multer`
+- yup: `npm install -S yup`
 
 :. [Trilha Omnistack - Next Level Week - Rocketseat](https://rocketseat.com.br/)<br/>
 :. [Douglas A B Novato](https://linktr.ee/douglasabnovato)
