@@ -87,7 +87,9 @@
 - [x] 2.3. Configurando Banco de Dados
 - [x] 2.3.1. typeorm: yarn add typeorm sqlite3
 - [x] 2.3.2. sqlite3
-- [ ] 2.4. Criando tabelas no Banco de Dados
+- [x] 2.4. Criando tabelas no Banco de Dados
+- [x] 2.4.1. Configurar Migrations: registro das alterações
+- [x] 2.4.2. criar migrations: ``
 - [ ] 2.5. Criando orfanato sem imagem
 - [ ] 2.6. Abstraindo em controller 
 - [ ] 2.7. Listando orfanatos 
