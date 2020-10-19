@@ -94,7 +94,7 @@
 - [x] 2.4.4. beekeeper studio: visualizar criação
 - [x] 2.4.5. sqlite explorer: visualizar criação
 
-*** Finalizando os seguintes pontos ***
+**Finalizando os seguintes pontos**
 
 - 2.5. Criando orfanato sem imagem
 - 2.6. Abstraindo em controller 
@@ -105,7 +105,7 @@
 - 2.11. Lidando com excessões 
 - 2.12. Validação de Dados
 
-*** Instaladas as seguintes dependências ***
+**Instaladas as seguintes dependências**
 
 - cors: `npm install cors`
 - multer: `npm install --save multer`
