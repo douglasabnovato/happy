@@ -124,9 +124,7 @@
 
 **Warning**
 
-- respawn`resolve/lib/core` is deprecated: is-core-module: `npm install is-core-module`
-
-AONDE PAREI : no módulo web, complementando o projeto
+- respawn`resolve/lib/core` is deprecated: is-core-module: `npm install is-core-module` 
 
 :. [Trilha Omnistack - Next Level Week - Rocketseat](https://rocketseat.com.br/)<br/>
 :. [Douglas A B Novato](https://linktr.ee/douglasabnovato)
