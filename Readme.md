@@ -4,6 +4,8 @@
 
 ![Happy](/web/images/front-end-web.jpg)
 
+- Servidor de Hospedagem: Netlify
+
 #### Front-end Web com ReactJS
 
 - [x] 1.1. Apresentação do Projeto
