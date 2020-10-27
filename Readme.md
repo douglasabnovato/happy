@@ -128,5 +128,9 @@
 
 - respawn`resolve/lib/core` is deprecated: is-core-module: `npm install is-core-module` 
 
+**Deploy da Aplicação**
+ 
+- Netlify: `npm install netlify-cli -g`
+
 :. [Trilha Omnistack - Next Level Week - Rocketseat](https://rocketseat.com.br/)<br/>
 :. [Douglas A B Novato](https://linktr.ee/douglasabnovato)
